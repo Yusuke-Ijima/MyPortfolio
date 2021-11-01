@@ -22,7 +22,7 @@ export const Works: VFC = memo(() => {
         WorksUrl="https://todo-list-a4282.web.app/"
         bgColor="white"
         src={IToDoList}
-        ImageContent="TODOリストです。はじめはJavaScriptでコードを書き、あとから勉強の為にReactに書き換えました。"
+        ImageContent="ToDoリストです。はじめはJavaScriptでコードを書き、あとから勉強の為にReactに書き換えました。"
         Language="#JavaScript #React"
       />
       <WorkCard
